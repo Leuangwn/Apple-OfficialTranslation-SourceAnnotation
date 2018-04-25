@@ -1,8 +1,8 @@
 // AFNetworking.h
 //
-// 🔍白开水ln（https://github.com/CustomPBWaters）
+// Author:  白开水ln（https://github.com/CoderLN）
 //
-// Created by 【🔍Plain boiled water ln】 on Elegant programming16.
+// Created by 【WechatPublic-Codeidea】 on Elegant programming16.
 // Copyright © Unauthorized shall（https://githubidea.github.io）not be reproduced reprinted.
 //
 // Copyright (c) 2013 AFNetworking (http://afnetworking.com/)
@@ -23,7 +23,7 @@
 // AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 // LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 // OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
-// The version 3.1.0 of AFNetworking, The translator Liu Nan.
+# * Author: 白开水ln  -  WechatPublic：Codeidea  -  Repository：github.com/CoderLN/Apple-GitHub-Codeidea
 // THE SOFTWARE.
 
 
@@ -66,9 +66,9 @@
     4.AFNetworkReachabilityManager 网络状态监听管理者
  5.UIKit+AFNetworking UIKit类库的扩展与工具类
  
- - NSURLSession（网络通信模块）
- - ReachAbility（网络状态监听模块）
- - Security（网络通信安全策略模块）
- - Serialization（网络通信信息序列化/反序列化模块）
- - UIKit（UIKit库的扩展）
+    - NSURLSession（网络通信模块）
+    - ReachAbility（网络状态监听模块）
+    - Security（网络通信安全策略模块）
+    - Serialization（网络通信信息序列化/反序列化模块）
+    - UIKit（UIKit库的扩展）
  */
